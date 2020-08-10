@@ -1,4 +1,4 @@
-This is an example GitHub Action workflow that sends python test coverage data to coveralls.io. 
+This is an example GitHub Action workflow that sends python test coverage data to coveralls.io. This workflow uses the [Coveralls](https://github.com/marketplace/actions/coveralls-github-action) and [ReportGenerator](https://github.com/marketplace/actions/reportgenerator) GitHub Actions.
 
 ```
 name: Python package
